@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![hippo](https://i.imgur.com/FZ45H5C.gif)
-
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1qMTdzY3N6bmx2aWVxbXhjYWZ0Zmd4NWptaGN5MDZpdmM2OXBkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e64sW6YefHATlEBKsf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/lwpGFzy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with File Converter by Tichau
